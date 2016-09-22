@@ -14,3 +14,5 @@
 2016/09/22 15:03:10 [error] 6590#0: *5 open() "/usr/local/www/scuff/public/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: _, request: "GET /favicon.ico HTTP/1.0", host: "scuff.dexp.club", referrer: "http://scuff.dexp.club/"
 App 6631 stdout: 
 App 6641 stdout: 
+App 7316 stdout: 
+App 7328 stdout: 
