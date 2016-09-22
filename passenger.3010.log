@@ -16,3 +16,4 @@ App 6631 stdout:
 App 6641 stdout: 
 App 7316 stdout: 
 App 7328 stdout: 
+[ 2016-09-22 15:38:46.6512 6585/0x803407000 age/Cor/CoreMain.cpp:819 ]: Checking whether to disconnect long-running connections for process 7328, application /usr/local/www/scuff/public (development)
