@@ -20,3 +20,10 @@
 # Ignore Byebug command history file.
 .byebug_history
 /passenger.*
+
+passenger.3010.pid.lock
+passenger.3010.log
+passenger.3010.pid
+passenger.3010.log
+passenger.3010.pid
+passenger.3010.pid.lock
