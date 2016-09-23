@@ -17,3 +17,15 @@ App 6641 stdout:
 App 7316 stdout: 
 App 7328 stdout: 
 [ 2016-09-22 15:38:46.6512 6585/0x803407000 age/Cor/CoreMain.cpp:819 ]: Checking whether to disconnect long-running connections for process 7328, application /usr/local/www/scuff/public (development)
+App 8298 stdout: 
+App 8308 stdout: 
+App 8362 stdout: 
+App 8367 stdout: 
+App 8372 stdout: 
+[ 2016-09-22 16:16:45.7713 6585/0x803407000 age/Cor/CoreMain.cpp:819 ]: Checking whether to disconnect long-running connections for process 8372, application /usr/local/www/scuff/public (development)
+[ 2016-09-22 16:16:53.9702 6585/0x803407000 age/Cor/CoreMain.cpp:819 ]: Checking whether to disconnect long-running connections for process 8308, application /usr/local/www/scuff/public (development)
+[ 2016-09-22 16:16:53.9706 6585/0x803407000 age/Cor/CoreMain.cpp:819 ]: Checking whether to disconnect long-running connections for process 8362, application /usr/local/www/scuff/public (development)
+[ 2016-09-22 16:16:53.9706 6585/0x803407000 age/Cor/CoreMain.cpp:819 ]: Checking whether to disconnect long-running connections for process 8367, application /usr/local/www/scuff/public (development)
+App 8983 stdout: 
+App 8995 stdout: 
+[ 2016-09-22 16:40:13.6648 6585/0x803407000 age/Cor/CoreMain.cpp:819 ]: Checking whether to disconnect long-running connections for process 8995, application /usr/local/www/scuff/public (development)
